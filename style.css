@@ -1,0 +1,49 @@
+.header{
+	text-align: center;
+	background-color: #9ccb3b;
+	width: 1024px;
+}
+
+.foto{
+	float:right;
+	width: 200;
+	height: 300;
+}
+.cent {
+	text-align: center;
+	font-size: 20px;
+	width: 1024px;
+}
+
+.lef {
+	text-align:left;
+	margin-left: 50px;
+	margin-top: 5px;
+	font-size: 20px;
+	width: 975px;
+	background: grey;
+}
+.basic  {
+	text-align: left;
+	width: 700px;
+	margin-left: 50px; 
+	padding-top: 12px;
+	padding-bottom: 10px;
+	font-size: 16px;
+	border-bottom: solid;
+	border-bottom-color: black;
+	overflow: hidden;
+}
+p {
+	font-size: 16px;
+	margin-left: 50px;
+	margin: 3px;
+}
+.text {
+	font-size: 16px;
+	margin-left: 50px; 
+}
+.list {
+	margin-left: 50px; 
+	font-size: 16px;
+}
